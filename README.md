@@ -1,2 +1,2 @@
 # kanban_app
-Learn React and Webbpack
+React and WebPack tutorial 
